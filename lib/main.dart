@@ -121,7 +121,7 @@ class _HomePageState extends State<HomePage> {
       name: 'Feel Special',
       description:
           '「新女性」與「新男性」概念在五四運動後逐漸興起，女性不再只是家庭角色，也積極投入社會、職場與學術領域。同時，也有越來越多男性開始反思父權角色，兩性之間重新尋找價值感與合作空間。',
-      price: 4.50,
+      price: 4.60,
       imageUrl: 'https://th.bing.com/th/id/OIG4.xhGYuFwcNwhvNFdZBjx4?pid=ImgGn',
     ),
     Drink(
