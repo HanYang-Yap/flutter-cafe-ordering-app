@@ -69,7 +69,7 @@ final List<Drink> sampleDrinks = [
     name: 'Scientist',
     description:
         '清末與民初，女性逐步進入理工科領域，如北京女子高等師範學校設立數理組。她們面對的不只是學科挑戰，更是社會偏見。這些女性科學先驅，為後來的性別平權教育鋪下基石。',
-    price: 4.00,
+    price: 4.50,
     imageUrl:
         'https://th.bing.com/th/id/OIG3.F5X_Nw8gHQLKJsmN8mSg?w=1024&h=1024&rs=1&pid=ImgDetMain',
   ),
