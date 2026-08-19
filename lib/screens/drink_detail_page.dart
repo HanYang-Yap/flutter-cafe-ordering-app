@@ -76,7 +76,7 @@ class _DrinkDetailPageState extends State<DrinkDetailPage> {
                         child: Text(
                           '\$${widget.drink.price.toStringAsFixed(2)}',
                           style: const TextStyle(
-                            fontSize: 20,
+                            fontSize: 30,
                             fontWeight: FontWeight.bold,
                             color: Color(0xFFFF6B9D),
                           ),
