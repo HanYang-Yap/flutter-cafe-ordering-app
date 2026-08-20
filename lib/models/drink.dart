@@ -52,7 +52,7 @@ final List<Drink> sampleDrinks = [
     name: 'Breakthrough',
     description:
         '「男主外、女主內」的傳統性別分工，在近代社會逐漸被挑戰。家庭中女性不再僅是照顧者，也成為經濟支柱之一。這樣的角色轉變，在民國初年城市女性勞動者中已初見端倪。',
-    price: 4.25,
+    price: 4.00,
     imageUrl:
         'https://th.bing.com/th/id/OIG2.2yRH91C1kO5OjwA66wPa?w=1024&h=1024&rs=1&pid=ImgDetMain',
   ),
@@ -69,7 +69,7 @@ final List<Drink> sampleDrinks = [
     name: 'Scientist',
     description:
         '清末與民初，女性逐步進入理工科領域，如北京女子高等師範學校設立數理組。她們面對的不只是學科挑戰，更是社會偏見。這些女性科學先驅，為後來的性別平權教育鋪下基石。',
-    price: 4.50,
+    price: 2.00,
     imageUrl:
         'https://th.bing.com/th/id/OIG3.F5X_Nw8gHQLKJsmN8mSg?w=1024&h=1024&rs=1&pid=ImgDetMain',
   ),
@@ -103,7 +103,7 @@ final List<Drink> sampleDrinks = [
     name: 'Rainbow',
     description:
         '性別光譜如彩虹般多元，不只有傳統的男女二分。從古代的「男風」文化，到現代LGBTQ+族群的可見度提升，中華文化中一直存在著豐富的性別認同與表達方式，值得我們以開放心態理解與尊重。',
-    price: 5.50,
+    price: 5.00,
     imageUrl:
         'https://th.bing.com/th/id/OIG2.L7ga3.AR1MRVaG5tYC4e?w=1024&h=1024&rs=1&pid=ImgDetMain',
   ),
@@ -129,7 +129,7 @@ final List<Drink> sampleDrinks = [
     name: 'Jelly Jelly',
     description:
         '性別角色如果凍般具有流動性，不應被固化定型。五四運動期間，許多知識分子開始反思傳統性別框架，提倡「人格獨立」概念。無論男女，都應該有彈性地發展自己的個性，而非被社會期待束縛。',
-    price: 2.00,
+    price: 3.00,
     imageUrl: 'https://th.bing.com/th/id/OIG4.js6k2h5.9670ObhiUXrI?pid=ImgGn',
   ),
   Drink(
